@@ -1,4 +1,5 @@
 {
+    "id": "6661227b-0914-4690-bc44-2dd0a4644c1c",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -291,7 +292,6 @@
             "name": "logo1"
         }
     ],
-    "id": "6661227b-0914-4690-bc44-2dd0a4644c1c",
     "thunkableVersion": 443,
     "name": "video_screen"
 }
